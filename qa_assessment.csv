@@ -1,0 +1,168 @@
+StudyID	FileName in DB	Aims	Dataset details	Data imbalance?	Architecture	Hyperparameter	#ofPerf Metrics	ComparedModels	StatisticalTests	Limitations/TtV	Total	Qualified
+1	[1]2016 - Song Wang - Automatically Learning Semantic Features for Defect Prediction	1	1	1	0.5	1	0.5	1	0	1	7	1
+2	[9]2020 - Jiehan Deng - Software defect prediction via LSTM	1	1	1	1	1	0.5	1	0	1	7.5	1
+3	[10]2018 - Thomas shippey - Automatically identifying code features for software defect prediction- Using AST N-grams	1	1	0	0.5	0	0.5	0.5	1	1	5.5	1
+4	[11]2019 - Hoa Khanh Dam - Lessons learned from using a deep tree-based model for software defect prediction in practice	1	1	0.5	1	1	1	0.5	0	1	7	1
+5	[12]2019 - Hongliang Liang - Seml- A Semantic LSTM Model for Software Defect Prediction	1	0.5	1	1	1	1	1	1	1	8.5	1
+6	[13]2023 - Ahmed Abdu - Graph-Based Feature Learning for Cross-Project Software Defect Prediction	1	1	0	1	0	0.5	1	1	1	6.5	1
+7	[14]2017 - Jian Li - Software Defect Prediction via Convolutional Neural Network	1	1	1	0.5	1	0.5	1	0	1	7	1
+8	[15]2020 - Qinchen Liu - Aging-Related Bugs Prediction Via Convolutional Neural Network	1	1	1	0.5	1	1	0.5	0	1	7	1
+9	[16]2020 - Ke Shi - PathPair2Vec- An AST path pair-based code representation method for defect prediction	1	1	1	1	0	0.5	1	0	0	5.5	1
+10	[17]2017 - VietPhan - Convolutional Neural Networks over Control Flow Graphs for Software Defect Prediction	1	1	0	1	0.5	0.5	1	0	0	5	1
+11	[18]2020 - Jinyin Chen - Software Visualization and Deep Transfer Learning for Effective Software Defect Prediction	1	1	1	1	0.5	0.5	1	0	1	7	1
+12	[19]2019 - Guisheng Fan - Deep Semantic Feature Learning with Embedded Static Metrics for Software Defect Prediction	1	1	1	1	1	0.5	1	1	0	7.5	1
+13	[20]2020 - Junhao Lin - Semantic Feature Learning via Dual Sequences for Defect Prediction	1	1	1	1	1	1	1	1	1	9	1
+14	[21]2019 - Shaojian Qiu - Transfer Convolutional Neural Network for Cross-Project Defect Prediction	1	1	1	1	1	0.5	1	1	1	8.5	1
+15	[22]2021 - Hao Wang - Software Defect Prediction Based on Gated Hierarchical LSTM	1	1	0	1	1	1	1	1	1	8	1
+16	[23]2018 - Xuan Huo - Learning Semantic Features for Software Defect Prediction by Code Comments Embedding	1	1	0	1	0.5	0.5	1	0	0	5	1
+17	[28]2019 - YI LI - Improving Bug Detection via Context-Based Code Representation Learning and Attention-Based Neural Networks	1	1	0	1	1	1	1	0	1	7	1
+18	[29]2020 - Xuan Zhou - Defect Prediction via LSTM Based on Sequence and Tree Structure	1	1	1	1	0	1	1	1	1	8	1
+19	[32]2024 - Hongwei Tao - Cross-Project Defect Prediction Using Transfer Learning with Long Short-Term Memory Networks	1	1	1	1	0	1	1	0	1	7	1
+20	[33]2022 - Jiaxi Xu - ACGDP- An Augmented Code Graph-Based System for Software Defect Prediction	1	1	0	1	1	1	0.5	0	1	6.5	1
+21	[34]2024 - Fengyu Yang - LineFlowDP - A Deep Learning‐Based Two‐Phase Approach for Line‐Level Defect Prediction	1	1	0	1	1	1	1	1	1	8	1
+22	[39]2023 - Chanathip Pornprasit - DeepLineDP-Towards a Deep Learning Approach for Line-Level Defect Prediction	1	1	0	1	1	1	1	1	1	8	1
+23	[40]2022 - Xuanye Wang - Software Defect Prediction via GIN with Hybrid Graphical Features	1	1	0	0.5	1	1	1	0	0	5.5	1
+24	[41]2024 - Ahmed Abdu - Semantic and traditional feature fusion for software defect prediction using hybrid deep learning model	1	1	1	1	0.5	1	1	1	0	7.5	1
+25	[43]2022 - Lucija Sikic - Graph Neural Network for Source Code Defect Prediction	1	1	0	1	1	1	1	1	1	8	1
+26	[47]2024 - Ha Thi Minh Phuong - A COMPARATIVE STUDY OF DEEP LEARNING TECHNIQUES IN SOFTWARE FAULT PREDICTION	1	1	0	1	0.5	1	0.5	0	0	5	1
+27	[48]2019-Cong Pan -An Improved CNN Model for Within-Project Software Defect Prediction	1	1	1	1	1	1	1	1	1	9	1
+28	[50]2021 - Hafiz Shahbaz Munir - Attention based GRU-LSTM for software defect prediction	1	1	0	1	0	1	1	0	0	5	1
+29	[51]2022 - Fengyu Yang - Fine‐Grained Software Defect Prediction Based on the Method-Call Sequence	1	1	1	1	1	1	1	0	1	8	1
+30	[53]2021 - Jiaxi Xu - Software Defect Prediction for Specific Defect Types based on Augmented Code Graph Representation	1	1	0	1	1	1	0.5	0	0	5.5	1
+31	[54]2020 - Shi Meilong - An Approach to Semantic and Structural Features Learning for Software Defect Prediction	1	1	1	1	1	0.5	0	1	0	6.5	1
+32	[55]2024 - Shaojian Qiu - Code Multiview Hypergraph Representation Learning for Software Defect Prediction	1	1	1	1	0.5	1	1	1	0	7.5	1
+33	[56]2022 - Mansi Gupta - Cognitive Complexity and Graph Convolutional Approach Over Control Flow Graph for Software Defect Prediction	1	0.5	0	1	1	1	0.5	0	1	6	1
+34	[59]2023 - Wenjun Yao - A Software Defect Prediction Method Based on Program Semantic Feature Mining	1	1	0	1	0.5	0.5	1	0	0	5	1
+35	[60]2024 - Briciu - Enriching the Semantic Representation of the Source Code with Natural Language-Based Features from Comments for Improving the Performance of Software Defect Prediction	1	0.5	1	0.5	0	1	1	0	1	6	1
+36	[61]2023 - Jiaxi Xu - FINDGATE- Fine-grained Defect Prediction Based on a Heterogeneous Discrete Code Graph-guided Attention Transformer	1	0.5	0	1	0	1	1	0	1	5.5	1
+37	[63]2020 - Ke Shi - MPT-Embedding- An Unsupervised Representation Learning of Code for Software Defect Prediction	1	1	1	1	1	0.5	1	0	1	7.5	1
+38	[64]2021- Huiqun Yu - A novel software defect prediction method based on hierarchial neural network	1	1	0	1	1	1	1	0	1	7	1
+39	[65]2021 - Ahmed Bahaa Farid - Software defect prediction using hybrid model (CBIL) of convolutional neural network (CNN) and bidirectional long short-term memory (Bi-LSTM)	1	1	1	1	1	0.5	0.5	0	0	6	1
+40	[66]2021 - Chen Lang - Software Defect Prediction via Multi-Channel Convolutional Neural Network	1	1	1	1	0.5	0.5	1	1	1	8	1
+41	[67]2023 - Hengjie Song - Adversarial domain adaptation for cross-project defect prediction	1	1	1	1	1	1	1	1	1	9	1
+42	[68]2024 - Siyu Jiang - Balanced Adversarial Tight Matching for Cross-Project Defect Prediction	1	1	0	1	1	1	1	1	1	8	1
+43	[69]2023 - Shaojian Qiu BAFLineDP- Code Bilinear Attention Fusion	1	1	1	1	0	1	1	1	1	8	1
+44	[70]2023 - Hao Shen - EDP-BGCNN- Effective Defect Prediction via BERT-based Graph Convolutional Neural Network	1	1	1	0.5	0	1	1	1	1	7.5	1
+45	[71]2021 - Cheng Zeng - GCN2defect - Graph Convolutional Networks for SMOTETomek-based Software Defect Prediction	1	1	1	1	0	0.5	1	0	0	5.5	1
+46	[72]2021 - Dingbang Fang - EPR- a Neural Network for Automatic Feature Learning from Code for Defect Prediction	1	1	1	1	1	0.5	1	0	1	7.5	1
+47	[74]2019 - Guisheng Fan - Software Defect Prediction via Attention-Based Recurrent Neural Network	1	1	1	1	1	1	1	1	0	8	1
+48	[76]2024 - Sadia Sahar - DP-CCL- A Supervised Contrastive Learning Approach Using CodeBERT Model in Software Defect Prediction	1	1	1	1	1	1	1	1	1	9	1
+49	[77]2023 - Jianzhong Zhu - SyntaxLineDP- a Line-level Software Defect Prediction Model based on Extended Syntax Information	1	1	0	1	0.5	1	1	0	1	6.5	1
+50	[80]2024 - Wei Song - Software Defect Prediction via Generative Adversarial Networks and Pre-Trained Model	1	1	0	1	1	0.5	1	0	1	6.5	1
+51	[81]2023 - Wei Song - Software Defect Prediction via Code Language Models	1	1	1	0.5	1	0.5	1	0	1	7	1
+52	[86]2023 - Wei Zheng - Hybrid Defect Prediction Model Based on Counterfactual Feature Optimization	1	1	0	1	0	0.5	1	0	1	5.5	1
+53	[90]2024 - Shaojian Qiu - Defect Prediction via Tree-Based Encoding with Hybrid Granularity for Software Sustainability	1	1	0	1	0	1	1	1	1	7	1
+54	[91]2021 - Cong Pan - An Empirical Study on Software Defect Prediction Using CodeBERT Model	1	1	1	1	0	1	0.5	0	0.5	6	1
+55	[92]2020-Qihang Zhang-Software Defect Prediction via Transformer	1	1	1	1	0	0.5	0.5	0	0	5	1
+56	[94]2019 - DEYU CHEN - DeepCPDP-Deep semantic feature learning for software defect prediction	1	1	1	1	0	0.5	1	1	1	7.5	1
+57	[95]2022-WANZHI WEN - A CrossProject Defect Prediction Model Based on Deep Learning With SelfAttention	1	1	0	1	0	0.5	1	0	1	5.5	1
+58	[1]2024 - Susmita Haldar - Interpretable Software Defect Prediction from Project Effort and Static Code Metrics	1	1	1	1	1	1	0.5	0	0	6.5	1
+59	[2]2022 - Emin Borandag - Software Fault Prediction Using an RNN-Based Deep Learning Approach and Ensemble Machine Learning Techniques	1	1	0	1	1	1	1	1	1	8	1
+60	[3]2019 - Jinyin Chen - Multiview Transfer Learning for Software Defect Prediction	1	1	0	1	0	0.5	1	1	1	6.5	1
+61	[4]2023- Harikiran - Software Defect Prediction Based Ensemble Approach	1	1	0	1	0	1	0.5	0	1	5.5	1
+62	[5]2022 - Suresh Kumar Pemmada - Correlation-based modified long short-term memory network approach for software defect prediction	1	1	1	1	0.5	1	1	0	1	7.5	1
+63	[7]2024 - Tianwei Lei - SDP-MTF- A Composite Transfer Learning and Feature Fusion for Cross-Project Software Defect Prediction	1	1	0	1	0	0.5	1	0	1	5.5	1
+64	[8]2023 - Xin Dong - Ensemble learning based software defect prediction	1	1	1	0.5	0	1	1	0	0	5.5	1
+65	[9]2020 - Osama Al Qasem - The Influence of Deep Learning Algorithms Factors in Software Fault Prediction	1	1	0	1	1	0.5	0	0	1	5.5	1
+66	[10]2019 - Amirabbas Majd - SLDeep- Statement-level software defect prediction using deep-learning model on static code features	1	1	0	1	0	1	0.5	0	1	5.5	1
+67	[11]2020 - Lei Qiao - Deep learning based software defect prediction	1	1	0	0.5	0.5	0.5	0.5	0	1	5	1
+68	[12]2021 - Kun Song - Software Defect Prediction Based on Elman Neural Network and Cuckoo Search Algorithm	1	1	0	1	0	0.5	1	1	1	6.5	1
+69	[14]2019 - Linchang Zhao - Siamese Dense Neural Network for Software Defect Prediction With Small Data	1	1	1	1	0	1	1	0	1	7	1
+70	[15]2024- Zhang - Software Defect Prediction Using Deep Q-Learning Network-Based Feature Extraction	1	1	1	1	1	1	1	1	1	9	1
+71	[16]2023 - Nasraldeen Alnor Adam Khleel - A novel approach for software defect prediction using CNN and GRU based on SMOTE Tomek method	1	1	1	1	0	1	0.5	1	1	7.5	1
+72	[17]2023 - Nasraldeen Alnor Adam Khleel - Software defect prediction using a bidirectional LSTM network combined with oversampling techniques	1	1	1	1	0	1	1	0	1	7	1
+73	[19]2018 - Hamza Turabieh - Iterated feature selection algorithms with layered recurrent neural network for software fault prediction	1	1	0	1	0	0.5	1	1	0	5.5	1
+74	[20]2019 - Manjula - Deep neural network based hybrid approach for software defect prediction using software metrics	1	1	0	1	0	1	1	0	0	5	1
+75	[21]2019 - WEI Hua - Software Defect Prediction via Deep BeliefNetwork	1	1	1	1	0	1	1	0	0	6	1
+76	[24]2023 - Iqra Batool - Software fault prediction using deep learning techniques	1	1	0	1	0.5	1	0.5	0	1	6	1
+77	[25]2023 - Siva - Automatic Software Bug Prediction Using Adaptive Artificial Jelly Optimization With Long Short-Term Memory	1	1	0	1	0	1	1	0	0	5	1
+78	[26]2023 - SIva - Automatic software bug prediction using adaptive golden eagle optimizer with deep learning	1	1	0	1	0	1	1	0	0	5	1
+79	[27]2023 - Anju - Adaptive recurrent neural network for software defect prediction with the aid of quantum theory- particle swarm optimization	1	1	0	1	1	1	1	0	0	6	1
+80	[28]2019 - Mohamed Samir - Investigating The Use of Deep Neural Networks for Software Defect Prediction	1	1	0	0.5	1	0.5	0.5	0	1	5.5	1
+81	[29]2024-Wahaj Alkaberi-LearningPredicting the Number of Software Faults using Deep Learning	1	1	1	1	0	0.5	0	0	1	5.5	1
+82	[31]2020- Sushant Kumar Pandey - BPDET An Effective Software Bug Prediction Model using Deep Representation and Ensemble Learning Techniques	1	1	1	1	1	1	1	0	1	8	1
+83	[32]2017 - Tong - Software defect prediction using stacked denoising autoencoders and two-stage ensemble learning	1	1	1	1	1	1	1	1	0	8	1
+84	[33]2023 - Sushant Kumar Pandey - Is Deep learning good enough for software defect prediction	1	1	1	1	0.5	1	1	1	1	8.5	1
+85	[34]2018 - Diana-Lucia Miholca - A novel approach for software defect prediction through hybridizing gradual relational association rules with artificial neural networks	1	1	0	1	0	1	1	0	0	5	1
+86	[35]2022-KHLEEL-A New Approach To Software Defect Prediction Based On Convolutional Neural Network And Bidirectional Long Short Term Memory	1	1	0	1	0	1	1	0	0	5	1
+87	[36]2024 - Oshina Vasishth - Enhanced software defect prediction using krill herd algorithm with stacked LSTM with attention mechanism	1	1	1	1	1	1	1	1	1	9	1
+88	[96]2024 - Hengjie Song - ConCPDP  A Cross‐Project Defect Prediction Method Integrating Contrastive Pretraining and Category Boundary Adjustment	1	1	1	1	1	1	1	0	1	8	1
+89	[97]2024 - Xuanye Wang - IC-GraF An Improved Clustering with Graph-Embedding-Based Features for Software Defect Prediction	1	1	0	1	0	1	1	1	1	7	1
+90	[98]2024 - Parvez Mahbub - Predicting Line-Level Defects by Capturing Code Contexts with Hierarchical Transformers	1	1	0	1	0	0.5	0.5	0	1	5	1
+91	[99]2018 - Song Wang - Deep Semantic Feature Learning for Software Defect Prediction	1	1	1	1	0	1	1	1	1	8	1
+92	[100]2022 - Qingan Huang - A cross-project defect prediction method based on multi-adaptation and nuclear norm	1	1	1	1	1	1	1	0	1	8	1
+93	[101]2022 - Md Nasir Uddin - Software defect prediction employing BiLSTM and BERT-based semantic feature	1	1	0	1	1	0.5	1	0	1	6.5	1
+94	[102]2020 - Jiehan Deng - A Suitable AST Node Granularity and Multi-Kernel Transfer Convolutional Neural Network for Cross-Project Defect Prediction	1	1	1	1	1	0.5	1	0	1	7.5	1
+95	[103]2020 - Ming Wen - How Well Do Change Sequences Predict Defects? Sequence Learning from Software Changes	1	1	1	1	1	1	1	1	1	9	1
+96	[104]2021 - Ting-Yan Yu - Use of Deep Learning Model with Attention Mechanism for Software Fault Prediction	1	1	1	1	0	1	1	0	0	6	1
+97	[105]2022 - VIET ANH PHAN -Learning Stretch-Shrink Latent Representations With Autoencoder and K-Means for Software Defect Prediction	1	1	0	1	0	1	1	0	0	5	1
+98	[106]2022 - DIANA-LUCIA MIHOLCA - An in-Depth Analysis of the Software Features Impact on the Performance of Deep Learning-Based Software Defect Predictors	1	1	1	1	0.5	1	0	1	1	7.5	1
+99	[39]2022 - Kajal Tameswar - A hybrid deep learning approach with genetic and coral reefs metaheuristics for enhanced defect detection in software	1	1	0	1	1	1	0	0	0	5	1
+100	[40]2021 - Tanujit Chakraborty - Hellinger Net: A Hybrid Imbalance Learning Model to Improve Software Defect Prediction	1	1	1	1	0.5	1	1	1	1	8.5	1
+101	[41]2022 - AILI WANG - Heterogeneous Defect Prediction Based on Federated Reinforcement Learning via Gradient Clustering	1	1	0	1	0	1	1	1	0	6	1
+102	[42]2020 - Kun Zhu - Software defect prediction based on non-linear manifold learning and hybrid deep learning techniques	1	1	1	1	1	1	1	0	0	7	1
+103	[107]2025 - Zhijing Liu - Software defect prediction based on residualshuffle network optimized by upgraded fish migration optimization algorithm	1	1	1	1	0.5	1	1	0	0.5	7	1
+104	[108]2025 - Bal - Cross Project Defect Prediction using Dropout Regularized Deep Learning and Unique Matched Metrics	1	1	1	1	0.5	1	1	0.5	1	8	1
+105	[109]2025 - Abhichandani - Multi-Dimensional_Software_Defect_Prediction_using_Ensemble_and_Deep_Learning	1	0.5	1	1	0.5	1	1	0	0.5	6.5	1
+106	[110]2025 - Wen Zhang - Cross-project defect prediction based on autoencoder with dynamic adversarial adaptation	1	1	1	1	1	1	1	1	1	9	1
+107	[111]2025 - Wang - Application_of_Defect_Prediction_Model_Based_on_Convolutional_Neural_Networks_in_Software_Evaluation	1	0.5	0	1	0.5	1	1	0	0.5	5.5	1
+108	[112]2025 - HIRO ANDRADE - Improving Software Defect Detection With LSTM-Based Semantic Modeling and Class Imbalance Handling	1	1	1	1	0.5	1	1	0	1	7.5	1
+109	[113]2025 - Haiyang Liu - CFG2AT_Control_Flow_Graph_and_Graph_Attention_Network-Based_Software_Defect_Prediction	1	1	0.5	1	0.5	1	1	1	1	8	1
+110	[114]2025 - Zhou - Software_Defect_Prediction_Method_Based_on_Multi-Feature_Fusion	1	1	0.5	1	0.5	1	1	0	1	7	1
+111	[115]2023 - Fanggeng Tang - Software Defect Prediction using Multi-scale Structural Information	1	1	0	1	0.5	1	0.5	0	0.5	5.5	1
+112	[116]2024 - Zong-Yi Chen - Employing CNN with Spatial Pyramid Pooling for Predicting Software Defects through Image Analysis	1	0.5	1	1	0.5	1	1	0	0.5	6.5	1
+113	[117]2025 - Bal - An approach to software defect prediction for small-sized datasets	1	1	1	0.5	0.5	0.5	0.5	1	1	7	1
+114	[119]2025 - Chitra - A novel attention based deep learning model for software defect prediction with bidirectional word embedding system	1	1	0.5	1	0.5	1	0.5	0	0.5	6	1
+115	[120]2025 - Fei - A Software Defect Prediction Method Using a Multivariate Heterogeneous Hybrid Deep Learning Algorithm	1	1	1	1	1	1	1	0	1	8	1
+116	[121]2025 - Gayetri - Convolution neural network-AlexNet with gazelle optimization algorithm-based software defect prediction	1	0.5	0.5	0.5	0.5	0.5	1	0	0.5	5	1
+117	[122]2025 - Long - Optimizing fault prediction in software based on MnasNet_LSTM optimized by an improved lotus flower algorithm	1	0.5	1	1	0.5	0.5	1	0	0.5	6	1
+118	[123]2025 - Mahmoud - Enhancing software defect prediction with a hybrid convolutional neural network and antlion optimization model	1	1	1	1	0.5	1	1	0	1	7.5	1
+119	[124]2025 - Manikandan - Examining_the_Performance_of_Mamba_Tab_for_Software_Defect_Prediction	1	0.5	1	1	0.5	1	0.5	0	0.5	6	1
+120	[126]2025 - Nevendra - TRGNet- a deep transfer learning approach for software defect prediction	1	1	1	1	0.5	1	1	1	1	8.5	1
+121	[127]2025 - Qiu - Enhancing line-level defect prediction using bilinear attention fusion and ranking optimization	1	1	1	1	0.5	1	1	1	1	8.5	1
+122	[128]2025 - Ruchika - DHG-BiGRU- Dual-attention based hierarchical gated BiGRU for software defect prediction	1	0.5	0.5	1	0.5	1	1	1	0.5	7	1
+123	[129]2025 - Ruchika - Software defect prediction based on multi-filter wrapper feature selection and deep neural network with attention mechanism	1	1	1	1	1	1	1	1	1	9	1
+124	[130]2025 - Turk - A comparative study of Kolmogorov-Arnold networks and multilayer perceptrons for software defect prediction with SHAP analysis	1	1	1	1	1	1	1	1	1	9	1
+125	[131]2025 - Ye - Software Defect Prediction Model based on AST and Deep Learning	1	1	1	1	1	1	1	0.5	1	8.5	1
+126	[132]2025 - Zou - A three-stage cross-project defect prediction framework based on feature representation and knowledge transfer	1	1	1	1	1	1	1	1	1	9	1
+127	[133]2025 - Zou - Counterfactual_Contrastive_Explanations_for_Software_Defect_Prediction_Toward_Better_Model_Understanding_and_Accuracy	1	1	1	1	1	1	1	1	1	9	1
+128	[134]2024 - Abdu - Software Defect Prediction Based on Deep Representation Learning of Source Code From Contextual Syntax and Semantic Graph	1	1	1	1	1	1	1	1	1	9	1
+129	[135]2024 - Han - bjCnet A contrastive learning-based framework for software defect prediction	1	1	1	1	1	1	1	1	1	9	1
+130	[136]2024 - Jiang - Cross-project defect prediction via semantic and syntactic encoding	1	1	1	1	1	1	1	1	1	9	1
+131	[137]2024 - Zhou - Deep learning or classical machine learning_ An empirical study on line-level software defect prediction	1	1	1	1	0.5	1	1	1	0.5	8	1
+132	[138]2025 - Jianhao Li - Software Defect Prediction Based on Gated Fusion of Pre-trained Models	1	1	1	1	1	1	1	1	1	9	1
+133	[139]2024 - Zhu - IMDAC- A robust intelligent software defect prediction model via multi-objective optimization and end-to-end hybrid deep learning networks	1	1	1	1	1	1	1	1	1	9	1
+134	[140]2021 - Nana Zhang - Software defect prediction based on stacked sparse denoisingautoencoders and enhanced extreme learning machine	1	1	1	1	1	1	1	1	1	9	1
+135	[141]2022 - Ying Xing - Cross-project defect prediction based on G-LSTM model	1	1	1	1	1	1	1	0.5	1	8.5	1
+136	[142]2019 - Qiu - Cross-Project Defect Prediction via Transferable Deep Learning-Generated and Handcrafted Features	1	1	1	1	1	1	1	1	1	9	1
+137	[143]2019 -  Ziyi Cai - An Abstract Syntax Tree Encoding Method for Cross-Project Defect Prediction	1	1	1	1	1	1	1	1	0.5	8.5	1
+138	[144]2019 -  Rahul Yedida - On the Value of Oversampling for Deep Learning in Software Defect Prediction	1	1	1	1	1	1	1	1	1	9	1
+139	[145]2023 - Farid Feyzi - Studying the effectiveness of deep active learning in software defect prediction	1	1	1	1	1	1	1	1	1	9	1
+140	[146]2021 - Zuhaira Muhammad Zain - Software Defect Prediction Harnessing on Multi 1-Dimensional Convolutional Neural Network Structure	1	1	1	1	1	1	1	0.5	1	8.5	1
+141	[147]2019 - Linchang Zhao - Software defect prediction via cost-sensitive Siamese parallel fully-connected neural networks	1	1	1	1	1	1	1	1	1	9	1
+142	[148]2022 - Vijay Walunj - Defect prediction using deep learning with Network Portrait Divergence for software evolution	1	1	1	1	1	1	1	1	1	9	1
+143	[149]2023 - Ruckmani - SMAN2- Soft-Max Multilayer Adversarial Neural Network-Based Cross-Project Software Defect Prediction	1	1	1	1	1	1	1	1	1	9	1
+144	[150]2019 - Zhou Xu - LDFR Learning deep feature representation for software defect prediction	1	1	1	1	1	1	1	1	1	9	1
+145	[151]2023 - Rohit Vashisht - Feature Engineering to Heterogeneous Cross Software Projects Defect Prediction A Novel Framework	1	1	1	1	0.5	1	1	0	1	7.5	1
+146	[152]2021 - Nana Zhang - WGNCS A robust hybrid cross-version defect model via multi-objective optimization and deep enhanced feature representation	1	1	1	1	1	1	1	1	1	9	1
+147	[153]2022 - Anbu - Improved mayfly optimization deep stacked sparse auto encoder feature selection scorched gradient descent driven dropout XLM learning framework for software defect prediction	1	0.5	0.5	1	0.5	0.5	0.5	0	0.5	5	1
+148	[154]2021 - Nevendra - Software defect prediction using deep learning	1	1	0.5	1	0.5	1	1	1	0.5	7.5	1
+149	[155]2024 - Waleed Albattah - Software Defect Prediction Based on Machine Learning and Deep Learning Techniques An Empirical Approach	1	1	0.5	0.5	0.5	1	0.5	0	0.5	5.5	1
+150	[156]2022 - Kamal Kant Sharma - Software Defect Prediction using Deep Learning by Correlation Clustering of Testing Metrics	1	1	0.5	1	1	1	1	0	0.5	7	1
+151	[157]2022 - Manzura Jorayeva - Deep Learning-Based Defect Prediction for Mobile Applications	1	1	1	1	0.5	1	1	0.5	1	8	1
+152	[158]2024 - Sahana Shankar - Analysis of Bio Inspired Based Hybrid Learning Model for Software Defect Prediction	1	1	1	1	0.5	1	1	0	0.5	7	1
+153	[159]2024 - Meetesh Nevendra - Meta network attention-based feature matching for heterogeneous defect prediction	1	1	1	1	1	1	1	0.5	1	8.5	1
+154	[160]2022 - Zhehao Zhao - Precise Learning of Source Code Contextual Semantics via Hierarchical Dependence Structure and Graph Attention Networks	1	1	0.5	1	0.5	1	1	0	1	7	1
+155	[161]2024 - Jiarui Fan - Deep Learning-Based Automated Software Defect Prediction Model	1	1	0.5	1	1	1	0.5	0	0.5	6.5	1
+156	[162]2024 - Zhixuan Shen - An Empirical Systematic Study of Deep Learning-Based Software Defect Prediction Models in Complex Systems	1	1	0.5	1	0.5	1	0.5	0	0.5	6	1
+157	[163]2024 - Xiangkang Li - CSTLineDP A Fine-grained Software Defect Prediction Framework Based on CST and Bi-GRU	1	1	1	1	0.5	1	1	0	1	7.5	1
+158	[164]2024 - Chongyang Huang - Software Defect Prediction Model Based on Syntactic Semantics and Flow Information Features	1	1	1	1	0.5	1	1	0	0.5	7	1
+159	[165]2023 - Guohong Pei - Hybrid Population Intelligence and Deep Learning Research for Software Defect Prediction	1	1	0.5	1	0.5	1	1	0	0.5	6.5	1
+160	[166]2024 - Sai Krishna Gunda - A Deep Dive into Software Fault Prediction Evaluating CNN and RNN Models	1	1	0.5	1	0	1	0.5	0	0.5	5.5	1
+161	[168]2022 - Ho A - Combining Deep Learning and Kernel PCA for Software Defect Prediction	1	1	1	1	1	1	1	0.5	1	8.5	1
+162	[170]2020 - J. Tian - A Model Based on Program Slice and Deep Learning for Software Defect Prediction	1	1	1	1	1	1	1	1	1	9	1
+163	[184]2019 - H. D. Tran - Combining feature selection, feature learning and ensemble learning for software fault prediction	1	1	1	1	0.5	1	0.5	0	0	6	1
+164	[185]2019 - H. Li - Cross-project Defect Prediction via ASTToken2Vec and BLSTM-based Neural Network	1	1	1	1	0.5	1	1	0.5	0.5	7.5	1
+165	[186]2025 - Z. Liu - CAFEM: Context-Aware Feature Enhancement with Multi-Stage Sampling for Statement-Level Defect Prediction	1	1	1	1	1	1	1	0	0.5	7.5	1
+166	[190]2021 - Z Li - Software defect prediction based on hybrid swarm intelligence and deep learning	1	1	0	1	0.5	1	1	0	0	5.5	1
+167	[192]2024 - AA Aihong - An optimized deep learning method for software defect prediction using Whale Optimization Algorithm	1	1	0.5	1	1	1	0.5	0	0.5	6.5	1
