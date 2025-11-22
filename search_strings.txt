@@ -1,0 +1,22 @@
+ACM The below query was executed using "edit query" feature on advanced search interface.
+((Title: software) AND (Title: defect) AND (Title: prediction) AND (Title: ''deep learning'')) 
+OR ((Abstract: software) AND (Abstract: defect) AND (Abstract: prediction) AND (Abstract: ''deep learning'')) 
+OR ((Keyword: software) AND (Keyword: defect) AND (Keyword: prediction) AND (Keyword: ''deep learning'')) 
+
+IEEE Xplore The below query was executed using "command search" feature on advanced search interface.
+((("Document Title":software) AND ("Document Title":defect) AND ("Document Title":prediction) AND ("Document Title":"deep learning")) 
+OR (("Abstract":software) AND ("Abstract":defect) AND ("Abstract":prediction) AND ("Abstract":"deep learning")))
+
+ScienceDirect The below query was executed using advanced search interface. Textbox "Title, abstract or author-specified keywords" was used to search. 
+software  AND ("defect prediction") AND ("deep learning")
+
+Springer The below query was executed using search interface by inputting below boolean strings in the corresponding textboxes
+Keyword : software "defect prediction" "deep learning"
+Title: defect prediction
+
+Wiley The below query was executed by selecting "Abstract" as the search field on advanced search
+interface. The results were combined, and the duplicates were removed.
+Abstract : software "defect prediction" deep learning
+
+Google Scholar The below query was executed using Search 
+allintitle: "deep learning" "defect prediction"

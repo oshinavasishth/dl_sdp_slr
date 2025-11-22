@@ -1,0 +1,24 @@
+Database,Search String (shortened or file reference),Date of Search,Time Range Applied,Records Retrieved,Export File,File Format,,
+IEEE Xplore,"(((""Document Title"":software) AND (""Document Title"":defect) AND (""Document Title"":predictiom) AND (""Document Title"":""deep learning"")) 
+OR ((""Abstract"":software) AND (""Abstract"":defect) AND (""Abstract"":prediction) AND (""Abstract"":""deep learning"")) 
+OR ((""Author Keywords"":software) AND (""Author Keywords"":defect) AND (""Author Keywords"":prediction) AND (""Author Keywords"":""deep learning"")))",27-12-2024,2016–2024,110,IEEE_2016-2024.csv,CSV,,
+ACM DL,"((Title: software) AND (Title: defect) AND (Title: prediction) AND (Title: ''deep learning'')) 
+OR ((Abstract: software) AND (Abstract: defect) AND (Abstract: prediction) AND (Abstract: ''deep learning'')) 
+OR ((Keyword: software) AND (Keyword: defect) AND (Keyword: prediction) AND (Keyword: ''deep learning'')) ",27-12-2024,2016–2024,19,ACM_2016-2024.csv,CSV,,
+SpringerLink,"Keyword : software ""defect prediction"" ""deep learning""
+Title: defect prediction",27-12-2024,2016–2024,113,Springer_2016-2024.csv,CSV,,
+ScienceDirect,"TITLE-ABS-KEY((software) AND (defect) AND (prediction) AND (""deep learning""))",27-12-2024,2016–2024,32,ScienceDirect_2016-2024.csv,CSV,,
+Wiley,"Abstract : software ""defect prediction"" deep learning",27-12-2024,2016–2024,18,Wiley_2016-2024.csv,CSV,,
+Google Scholar,"allintitle: ""deep learning"" ""defect prediction""",27-12-2024,2016–2024,119,GoogleScholar_2016-2024.csv,CSV,,
+IEEE Xplore,"(((""Document Title"":software) AND (""Document Title"":defect) AND (""Document Title"":predictiom) AND (""Document Title"":""deep learning"")) 
+OR ((""Abstract"":software) AND (""Abstract"":defect) AND (""Abstract"":prediction) AND (""Abstract"":""deep learning"")) 
+OR ((""Author Keywords"":software) AND (""Author Keywords"":defect) AND (""Author Keywords"":prediction) AND (""Author Keywords"":""deep learning"")))",25-10-2025,2025–2025,22,IEEE_2025-2025.csv,CSV,,
+ACM DL,"((Title: software) AND (Title: defect) AND (Title: prediction) AND (Title: ''deep learning'')) 
+OR ((Abstract: software) AND (Abstract: defect) AND (Abstract: prediction) AND (Abstract: ''deep learning'')) 
+OR ((Keyword: software) AND (Keyword: defect) AND (Keyword: prediction) AND (Keyword: ''deep learning'')) ",25-10-2025,2025–2025,3,ACM_2025-2025.csv,CSV,,
+SpringerLink,"Keyword : software ""defect prediction"" ""deep learning""
+Title: defect prediction",25-10-2025,2025–2025,36,Springer_2025-2025.csv,CSV,,
+ScienceDirect,"TITLE-ABS-KEY((software) AND (defect) AND (prediction) AND (""deep learning""))",25-10-2025,2025–2025,9,ScienceDirect_2025-2025.csv,CSV,,
+Wiley,"Abstract : software ""defect prediction"" deep learning",25-10-2025,2025–2025,2,Wiley_2025-2025.csv,CSV,,
+Google Scholar,"allintitle: ""deep learning"" ""defect prediction""",25-10-2025,2025–2025,17,GoogleScholar_2025-2025.csv,CSV,,
+,,,,,,,,
